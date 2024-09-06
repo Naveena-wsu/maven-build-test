@@ -1,2 +1,2 @@
 # maven-build-test
-Muti Module
+Sample Repo for Maven project
